@@ -1,7 +1,7 @@
 ﻿
 namespace Exercicio6
 {
-    internal class Filme
+    public class Filme
     {
         public string NomeFilme;
         public string Categoria;
